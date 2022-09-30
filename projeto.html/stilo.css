@@ -1,0 +1,53 @@
+body {
+    background-image: url("./img/fundo.jpeg");
+    background-size: cover;
+}
+
+.princ {
+    background-image: url("imagem/branco.jpeg");
+    background-size: cover;
+    background-color: white;
+    text-align: center
+}
+
+.princ-name {
+    font-family: Georgia, 'Times New Roman';
+}
+
+.nave {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: lighter;
+}
+
+.nave li {
+    padding: 0 7%;
+
+}
+
+.nave a {
+    padding: 10px;
+    color: rgb(206, 191, 191);
+    text-decoration: none;
+}
+
+.nave a:hover {
+    background-color: rgb(150, 190, 195);
+}
+
+.nave li {
+    display: inline;
+}
+
+.imagem-perfil {
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+footer {
+    color: azure;
+    text-align: center;
+    margin: 230px;
+}
