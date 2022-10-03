@@ -1,2 +1,2 @@
-# manovini.site
+# manovini/site.html
 meu primeiro projeto
